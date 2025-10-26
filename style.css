@@ -131,3 +131,27 @@ section h2 {
 section {
     margin-bottom: 40px;
 }
+
+#contact {
+  background-color: hsl(300, 83%, 95%);
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+#contact a {
+  color: white;
+  background-color: hsl(120, 80%, 35%);
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+#contact a:hover {
+  background-color: hsl(120, 70%, 25%);
+}
+
+

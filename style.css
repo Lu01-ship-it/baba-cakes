@@ -43,7 +43,7 @@ h1, h2, h3 {
 /* Navbar */
 .navbar {
     position: fixed;
-    top: 70px;
+    top: 104px;
     left: 0;
     width: 100%;
     z-index: 999;
@@ -153,5 +153,6 @@ section {
 #contact a:hover {
   background-color: hsl(120, 70%, 25%);
 }
+
 
 
